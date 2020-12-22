@@ -1,0 +1,2 @@
+C:\CRM\PCF\component-framework\TS_AngularJSFlipControl\obj\Debug\JS_AngularJSFlipControl.pcfprojAssemblyReference.cache
+C:\CRM\PCF\component-framework\TS_AngularJSFlipControl\obj\Debug\JS_AngularJSFlipControl.pcfproj.CoreCompileInputs.cache

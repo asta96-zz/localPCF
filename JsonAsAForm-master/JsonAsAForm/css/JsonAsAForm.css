@@ -1,0 +1,54 @@
+#jsonasaform_container
+{
+    width: 100%;
+    text-align: left;
+    padding: 10px;
+}
+
+#jsonasaform_container > div
+{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.jsonasaform_object
+{
+    padding-left: 10px;
+    border-left-style: inset;
+}
+
+.jsonasaform_object_title
+{
+    margin-top: 10px;
+    margin-right: 10px;
+    background-color: whitesmoke;
+    border-radius: 3px;
+    padding: 3px;
+    font-family: Segoe UI Light;
+    font-size: 16px;
+}
+
+.json_property
+{
+    display: flex;
+}
+
+.json_property > label
+{
+    flex: 1;
+    color: gray;
+    font-family: Segoe UI Light;
+    font-size: 14px;
+}
+
+.json_property > input
+{
+    color: dodgerblue;
+    flex: 1;
+    padding: 0px;
+    border: none;
+    outline: none;
+    background: transparent;
+    font-family: Segoe UI Light;
+    font-size: 14px;
+}

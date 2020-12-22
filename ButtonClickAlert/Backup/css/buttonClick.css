@@ -1,0 +1,15 @@
+.SampleNamespace\.TSWebAPI .SampleControl_WebAPI_ButtonClass {
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  cursor: pointer;
+  color: #1160b7;
+  background-color: #ffffff;
+  border: 1px solid black;
+  padding: 5px;
+  text-align: center;
+  min-width: 300px;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  display: block;
+}

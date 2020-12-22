@@ -1,0 +1,85 @@
+[
+    {
+        "key": "BIN_Service_Contact",
+        "name": "",
+        "fieldName": "BIN_Service_Contact",
+        "minWidth": 0,
+        "maxWidth": 0,
+        "currentWidth": 0,
+        "isResizable": false,
+        "isSorted": false,        
+        "isSortedDescending": false,
+        "visibility": false
+    },
+    {
+        "key": "BIN_Service_Contact_Name",
+        "name": "Name",
+        "fieldName": "BIN_Service_Contact_Name",
+        "minWidth": 150,
+        "maxWidth": 250,
+        "isResizable": true,
+        "isSorted": false,
+        "isSortedDescending": false
+    },
+    {
+        "key": "BIN_Service",
+        "name": "BIN Service",
+        "fieldName": "BIN_Service",
+        "minWidth": 150,
+        "maxWidth": 250,
+        "isResizable": true,
+        "isSorted": false,
+        "isSortedDescending": false
+    },
+    {
+        "key": "Contact",
+        "name": "Contact",
+        "fieldName": "Contact",
+        "minWidth": 100,
+        "maxWidth": 200,
+        "isResizable": true,
+        "isSorted": false,
+        "isSortedDescending": false
+    },
+    {
+        "key": "Created_By",
+        "name": "Created By",
+        "fieldName": "Created_By",
+        "minWidth": 100,
+        "maxWidth": 200,
+        "isResizable": true,
+        "isSorted": false,
+        "isSortedDescending": false
+    },
+    {
+        "key": "Line_Order",
+        "name": "Line Order",
+        "fieldName": "Line_Order",
+        "minWidth": 100,
+        "maxWidth": 200,
+        "isResizable": true,
+        "isSorted": false,
+        "isSortedDescending": false
+    },
+    {
+        "key": "Status",
+        "name": "Status",
+        "fieldName": "Status",
+        "minWidth": 100,
+        "maxWidth": 200,
+        "isResizable": true,
+        "isSorted": false,
+        "isSortedDescending": false
+    },
+     {
+        "key": "Status_Reason",
+        "name": "Status Reason",
+        "fieldName": "Status_Reason",
+        "minWidth": 100,
+        "maxWidth": 200,
+        "isResizable": true,
+        "isSorted": false,
+        "isSortedDescending": false
+    }
+    
+  ]

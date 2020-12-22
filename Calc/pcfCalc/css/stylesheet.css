@@ -1,0 +1,42 @@
+.Container {
+  overflow-x: auto;
+}
+.Buttons {
+  background-color: rgba(130, 141, 158, 1);
+  border: none;
+  color: black;
+  font-style: bold;
+  padding: 15px 32px;
+  padding-left: 100px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 4px;
+  cursor: pointer;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Headers {
+  background-color: grey;
+  color: yellow;
+}
+
+.inputs {
+  font-size: 18pt;
+  height: 40px;
+  width: 280px;
+  padding-right: 200 px;
+  text-align: center;
+}
+.input-lable {
+  font-family: Open Sans;
+  font-size: 20px;
+  color: rgba(0, 18, 107, 1);
+  font-weight: bold;
+  padding-left: 200px;
+  padding-right: 100px;
+  text-align: right;
+  margin-right: 150px;
+  float: left;
+}
